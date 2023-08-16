@@ -1,7 +1,7 @@
 # PING-PONG-GAME
 Ping-Pong-Game (Made using HTML5 CSS3 and JavaScript)
 
-You can see the website live at: https://5codeman.github.io/PING-PONG-GAME/index.html
+You can see the website live at:  https://shivamjha2110.github.io/Ping-Pong-Game/
 
 
 ![Screenshot (9146)](https://user-images.githubusercontent.com/101505481/219974632-5c2d1254-7609-4809-a607-6ce5e75a93b5.png)
